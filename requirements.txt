@@ -1,0 +1,7 @@
+torch
+sentence-transformers
+chromadb
+fastapi
+uvicorn
+openai
+python-dotenv
